@@ -72,7 +72,7 @@
     "@babel/preset-env": "^7.13.10",
     "@polymer/gen-typescript-declarations": "^1.6.2",
     "@rollup/plugin-babel": "^5.2.1",
-    "@rollup/plugin-node-resolve": "^9.0.0",
+    "@rollup/plugin-node-resolve": "^11.2.1",
     "@types/form-data": "^2.5.0",
     "bower": "^1.8.12",
     "browser-sync": "^2.26.14",
