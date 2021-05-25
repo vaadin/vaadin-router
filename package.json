@@ -76,7 +76,7 @@
     "@types/form-data": "^2.5.0",
     "bower": "^1.8.12",
     "browser-sync": "^2.26.14",
-    "browserslist": "^4.16.3",
+    "browserslist": "^4.16.6",
     "bundlesize": "^0.18.1",
     "eslint": "^7.22.0",
     "eslint-plugin-html": "^6.1.2",
