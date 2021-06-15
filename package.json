@@ -68,7 +68,7 @@
     "path-to-regexp": "^6.2.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.11.6",
+    "@babel/core": "^7.14.6",
     "@babel/preset-env": "^7.13.10",
     "@polymer/gen-typescript-declarations": "^1.6.2",
     "@rollup/plugin-babel": "^5.2.1",
