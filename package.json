@@ -90,7 +90,7 @@
     "polyserve": "^0.27.15",
     "rollup": "^2.35.1",
     "stylelint": "^13.12.0",
-    "typescript": "^4.1.5",
+    "typescript": "^4.3.5",
     "uglify-es": "^3.3.9",
     "wct-istanbul": "^0.14.3",
     "web-component-tester": "^6.9.2",
